@@ -1,0 +1,8 @@
+{
+    "env": {},
+    "dependencies": {
+        "jobcore.web/components/theme": "1.0.0"
+    },
+    "componentsDefaultDirectory": "components/{namespace}/{name}",
+    "packageManager": "npm"
+}

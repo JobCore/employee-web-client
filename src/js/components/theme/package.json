@@ -1,0 +1,16 @@
+{
+  "name": "@bit/jobcore.web.components.theme",
+  "version": "1.0.0",
+  "homepage": "https://bitsrc.io/jobcore/web/components/theme",
+  "main": "dist/index.js",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.4.1",
+    "bootstrap": "^4.0.0-beta.2",
+    "rc-time-picker": "^3.3.1",
+    "react-select": "^1.2.1"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE"
+}
